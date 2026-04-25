@@ -1,4 +1,4 @@
-import { useState, useEffect } from “react”;
+import { useState, useEffect } from "react";
 
 const DAYS = [“ראשון”, “שני”, “שלישי”, “רביעי”, “חמישי”];
 const DUTY_TYPES = [“רסר”, “מטבח”];
